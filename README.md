@@ -1,2 +1,2 @@
 # TDDProject
-projeto Java com Testes unitários 
+projeto Java com Testes unitários básicos (Test Driven Development)
